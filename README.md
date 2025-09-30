@@ -1,6 +1,6 @@
 <img width="1833" height="1268" alt="Screenshot From 2025-09-30 15-11-07" src="https://github.com/user-attachments/assets/59f39448-a5f7-487f-bafd-866086af2cc1" />
 
-
+**introduction**
 the following plugins in the plugin folder are for the styling the lazyvim ide and dash.
 only changes the colorshceme of your lazyvim ide and allows to configure the dash to your liking.
 
