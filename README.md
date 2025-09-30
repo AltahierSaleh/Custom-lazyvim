@@ -18,6 +18,7 @@ git clone https://github.com/AltahierSaleh/Custom-lazyvim.git ~/.config/nvim/lua
 colorscheme:
 1. if you want to change the colorshceme find the color overide section in the colorscheme file.
 2. from here you can change your colorscheme colors. this is what each parameter effects:
+   
    base → the main background color
    mantle → the "next layer" above base (used for things like floating windows or subtle background differences)
    crust → the outermost layer (like the very bottom background or UI borders)
