@@ -2,6 +2,8 @@
 
 
 the following plugins in the plugin folder are for the styling the lazyvim ide and dash.
+only changes the colorshceme of your lazyvim ide and allows to configure the dash to your liking.
+
 just insert the colorscheme and dash files into your plugin folder and refresh your terminal.
 you can use this command if your config matches the normal lazyvim directory path:
 
