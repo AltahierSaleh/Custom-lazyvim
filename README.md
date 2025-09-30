@@ -1,3 +1,6 @@
+![Uploading Screenshot From 2025-09-30 15-11-07.png…]()
+
+
 the following plugins in the plugin folder are for the styling the lazyvim ide and dash.
 you can use this command if your config matches the normal lazyvim directory path:
 
