@@ -10,4 +10,4 @@ you can use this command if your config matches the normal lazyvim directory pat
 
 git clone https://github.com/AltahierSaleh/Custom-lazyvim.git ~/.config/nvim/lua/plugins/exampleplugin
 
-
+**configuration**
