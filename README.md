@@ -14,15 +14,15 @@
 </ul>
 
 <!-- 👉 Place your colorscheme screenshot here -->
-<p align="center"> 
-<img width="2511" height="1613" alt="Screenshot From 2025-10-02 17-35-31" src="https://github.com/user-attachments/assets/26c34ef2-4b38-4742-bb3d-2b3750c7cb9b" />
+<p align="center">
+  <img width="2511" height="1613" alt="Screenshot From 2025-10-02 17-36-49" src="https://github.com/user-attachments/assets/3cbde9a0-ac4f-4c0b-b716-c281f811ccaf" />
   <br />
   <i>Preview of my custom colorscheme</i>
 </p>
 
 <!-- 👉 Place your dashboard screenshot here -->
 <p align="center">
-<img width="2520" height="1680" alt="Screenshot From 2025-10-02 17-29-22" src="https://github.com/user-attachments/assets/fc05eeca-1bee-4825-a319-59cc60c812be" />
+<img width="2511" height="1613" alt="Screenshot From 2025-10-02 17-37-38" src="https://github.com/user-attachments/assets/7c5d4f32-f435-4b33-99c7-302f2dc0da02" />
   <br />
   <i>Preview of my custom dashboard</i>
 </p>
