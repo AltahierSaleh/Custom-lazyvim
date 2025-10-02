@@ -1,26 +1,41 @@
-<img width="1833" height="1268" alt="Screenshot From 2025-09-30 15-11-07" src="https://github.com/user-attachments/assets/59f39448-a5f7-487f-bafd-866086af2cc1" />
+<h1 align="center">✨ My LazyVim Config ✨</h1>
 
-**introduction**
+<p align="center">
+  Custom <code>colorscheme.lua</code> and <code>dashboard.lua</code> for <a href="https://www.lazyvim.org/">LazyVim</a>.
+</p>
 
-the following plugins in the plugin folder are for the styling the lazyvim ide and dash.
-only changes the colorshceme of your lazyvim ide and allows to configure the dash to your liking.
+<hr />
 
-just insert the colorscheme and dash files into your plugin folder and refresh your terminal.
-you can use this command if your config matches the normal lazyvim directory path:
+<h2>📂 What’s inside</h2>
 
-git clone https://github.com/AltahierSaleh/Custom-lazyvim.git ~/.config/nvim/lua/plugins/exampleplugin
+<ul>
+  <li><b>colorscheme.lua</b> — Configures and applies your chosen colorscheme.</li>
+  <li><b>dashboard.lua</b> — Custom startup dashboard layout & settings.</li>
+</ul>
 
+<!-- 👉 Place your colorscheme screenshot here -->
+<p align="center">
+  <img src="images/colorscheme.png" alt="LazyVim Custom Colorscheme Preview" width="700"/>
+  <br />
+  <i>Preview of my custom colorscheme</i>
+</p>
 
+<!-- 👉 Place your dashboard screenshot here -->
+<p align="center">
+  <img src="images/dashboard.png" alt="LazyVim Custom Dashboard Preview" width="700"/>
+  <br />
+  <i>Preview of my custom dashboard</i>
+</p>
 
+<hr />
 
-**configuration**
+<h2>⚡ Installation</h2>
 
-colorscheme:
-1. if you want to change the colorshceme find the color overide section in the colorscheme file.
-2. from here you can change your colorscheme colors. this is what each parameter effects:
-   
-   base → the main background color
-   mantle → the "next layer" above base (used for things like floating windows or subtle background differences)
-   crust → the outermost layer (like the very bottom background or UI borders)
-   
-<img width="1213" height="171" alt="Screenshot From 2025-09-30 15-22-11" src="https://github.com/user-attachments/assets/8491e595-32fa-442d-920f-f6ea4809a5a0" />
+<p>Clone or download the files into your LazyVim config directory (<code>~/.config/nvim/</code>).</p>
+
+<h3>1) Backup existing files (optional)</h3>
+
+```bash
+mkdir -p ~/.config/nvim/backup
+cp -n ~/.config/nvim/lua/plugins/colorscheme.lua ~/.config/nvim/backup/ 2>/dev/null || true
+cp -n ~/.config/nvim/lua/plugins/dashboard.lua ~/.config/nvim/backup/ 2>/dev/null || true
