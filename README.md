@@ -14,15 +14,16 @@
 </ul>
 
 <!-- 👉 Place your colorscheme screenshot here -->
-<p align="center">
-  <img src="images/colorscheme.png" alt="LazyVim Custom Colorscheme Preview" width="700"/>
+<p align="center">  <img src="images/dashboard.png" alt="LazyVim Custom Dashboard Preview" width="700"/>
+
+  <img width="2520" height="1680" alt="Screenshot From 2025-10-02 17-28-34" src="https://github.com/user-attachments/assets/55f05352-2720-46ab-b422-397fe901542e" />
   <br />
   <i>Preview of my custom colorscheme</i>
 </p>
 
 <!-- 👉 Place your dashboard screenshot here -->
 <p align="center">
-  <img src="images/dashboard.png" alt="LazyVim Custom Dashboard Preview" width="700"/>
+<img width="2520" height="1680" alt="Screenshot From 2025-10-02 17-29-22" src="https://github.com/user-attachments/assets/fc05eeca-1bee-4825-a319-59cc60c812be" />
   <br />
   <i>Preview of my custom dashboard</i>
 </p>
