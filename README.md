@@ -49,3 +49,14 @@ mkdir -p ~/.config/nvim/lua/plugins
 cp /tmp/my-lazyvim-config/colorscheme.lua ~/.config/nvim/lua/plugins/colorscheme.lua
 cp /tmp/my-lazyvim-config/dashboard.lua ~/.config/nvim/lua/plugins/dashboard.lua
 ```
+
+<h3>2) Option B — Download files directly</h3>
+
+```bash
+mkdir -p ~/.config/nvim/lua/plugins
+curl -fsSL https://raw.githubusercontent.com/<GH_USER>/<REPO>/<BRANCH>/colorscheme.lua \
+  -o ~/.config/nvim/lua/plugins/colorscheme.lua
+
+curl -fsSL https://raw.githubusercontent.com/<GH_USER>/<REPO>/<BRANCH>/dashboard.lua \
+  -o ~/.config/nvim/lua/plugins/dashboard.lua
+```
