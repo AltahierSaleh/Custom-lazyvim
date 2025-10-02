@@ -39,3 +39,13 @@
 mkdir -p ~/.config/nvim/backup
 cp -n ~/.config/nvim/lua/plugins/colorscheme.lua ~/.config/nvim/backup/ 2>/dev/null || true
 cp -n ~/.config/nvim/lua/plugins/dashboard.lua ~/.config/nvim/backup/ 2>/dev/null || true
+```
+
+<h3>2) Option A — Clone repo & copy</h3>
+
+```bash
+git clone https://github.com/<GH_USER>/<REPO>.git /tmp/my-lazyvim-config
+mkdir -p ~/.config/nvim/lua/plugins
+cp /tmp/my-lazyvim-config/colorscheme.lua ~/.config/nvim/lua/plugins/colorscheme.lua
+cp /tmp/my-lazyvim-config/dashboard.lua ~/.config/nvim/lua/plugins/dashboard.lua
+```
