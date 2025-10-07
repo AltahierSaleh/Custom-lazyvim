@@ -44,20 +44,19 @@ cp -n ~/.config/nvim/lua/plugins/dashboard.lua ~/.config/nvim/backup/ 2>/dev/nul
 <h3>2) Option A — Clone repo & copy</h3>
 
 ```bash
-git clone https://github.com/<GH_USER>/<REPO>.git /tmp/my-lazyvim-config
-mkdir -p ~/.config/nvim/lua/plugins
+git clone https://github.com/AltahierSaleh/Custom-lazy.git /tmp/my-lazyvim-config
+
 cp /tmp/my-lazyvim-config/colorscheme.lua ~/.config/nvim/lua/plugins/colorscheme.lua
-cp /tmp/my-lazyvim-config/dashboard.lua ~/.config/nvim/lua/plugins/dashboard.lua
+cp /tmp/my-lazyvim-config/dash.lua ~/.config/nvim/lua/plugins/dashboard.lua
 ```
 
 <h3>2) Option B — Download files directly</h3>
 
 ```bash
-mkdir -p ~/.config/nvim/lua/plugins
-curl -fsSL https://raw.githubusercontent.com/<GH_USER>/<REPO>/<BRANCH>/colorscheme.lua \
+curl -fsSL https://raw.githubusercontent.com/AltahierSaleh/Custom-lazy/main/colorscheme.lua \
   -o ~/.config/nvim/lua/plugins/colorscheme.lua
 
-curl -fsSL https://raw.githubusercontent.com/<GH_USER>/<REPO>/<BRANCH>/dashboard.lua \
+curl -fsSL https://raw.githubusercontent.com/AltahierSaleh/Custom-lazy/main/dash.lua \
   -o ~/.config/nvim/lua/plugins/dashboard.lua
 ```
 
