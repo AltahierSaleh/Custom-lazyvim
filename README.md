@@ -1,7 +1,7 @@
 <h1 align="center">✨ My LazyVim Config ✨</h1>
 
 <p align="center">
-  Custom <code>colorscheme.lua</code> and <code>dashboard.lua</code> for <a href="https://www.lazyvim.org/">LazyVim</a>.
+  Custom <code>colorscheme.lua</code> and <code>dash.lua</code> for <a href="https://www.lazyvim.org/">LazyVim</a>.
 </p>
 
 <hr />
