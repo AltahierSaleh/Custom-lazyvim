@@ -11,6 +11,7 @@
 <ul>
   <li><b>colorscheme.lua</b> — Configures and applies your chosen colorscheme.</li>
   <li><b>dash.lua</b> — Custom startup dashboard layout & settings.</li>
+  <li>this demo assumes you have already went through installing lazyvim.</li>
 </ul>
 
 <!-- 👉 Place your colorscheme screenshot here -->
