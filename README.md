@@ -63,7 +63,7 @@ curl -fsSL https://raw.githubusercontent.com/AltahierSaleh/Custom-lazy/main/dash
 <h3>3) Sync plugins</h3>
 <p>use the lazyvim sync command to sync added plugins Then restart Neovim. </p>
 
-<hr /> <h2>📝 Notes</h2> <ul> <li>Place plugin specs like <code>colorscheme.lua</code> in <code>lua/plugins/</code> — LazyVim loads them automatically.</li> <li>You can move <code>dashboard.lua</code> into <code>lua/plugins/</code> or into your own namespace (e.g., <code>lua/yourname/dashboard.lua</code>).</li> <li>If colorscheme doesn’t apply, make sure it’s set correctly inside <code>colorscheme.lua</code>.</li> </ul> 
+<hr /> <h2>📝 Notes</h2> <ul> <li>Place plugin specs like <code>colorscheme.lua</code> in <code>lua/plugins/</code> — LazyVim loads them automatically.</li> <li>You can move <code>dash.lua</code> into <code>lua/plugins/</code> or into your own namespace (e.g., <code>lua/yourname/dashboard.lua</code>).</li> <li>If colorscheme doesn’t apply, make sure it’s set correctly inside <code>colorscheme.lua</code>.</li> </ul> 
 
 
 
